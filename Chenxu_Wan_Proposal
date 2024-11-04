@@ -1,0 +1,33 @@
+Individual Proposal
+Idea 1:
+Question: How does the COVID prevention distancing affect the level of wellness and life satisfaction?
+Variable:
+Independent variable: COVID prevention distancing (categorical data)
+Dependent variable: wellness life satisfaction (numerical data)
+I plan to use One-way ANOVA to elaborate on the association between independent and dependent variables. Assuming data are normally distributed and variances are homogeneous, if the p-value is greater than 0.5, there is no difference in wellness and life satisfaction scores across the levels of COVID prevention distancing, and vice versa.
+Possible result: 
+Null hypothesis: there is no difference in wellness and life satisfaction scores across the levels of COVID prevention distancing.
+Alternative hypothesis: there is a difference in wellness and life satisfaction scores across the levels of COVID prevention distancing.
+I hypothesized that the p-value would be less than 0.5, indicating a difference in wellness and life satisfaction scores across the levels of COVID prevention distancing. 
+Objective: The purpose of this analysis is to see whether the restrictive protocols during the COVID-19 period affected people’s ordinary lives.
+
+Idea 2:
+Question: Is there a correlation between loneliness and subjective happiness score?
+Variable:
+Independent variable: LONELY_ucla_loneliness_scale_score (numerical data)
+Dependent variable: WELLNESS_subjective_happiness_scale_score
+I plan to use linear regression to check if there’s a strong correlation between independent and dependent variables. In this analysis, we are going to check the slope of the linear regression line.
+Possible result: I hypothesized that the slope of the linear regression line would be close to -1, indicating there’s a negative correlation between the two variables.
+Objective: People’s mental health is strongly related to their happiness scale score. My target is to analyze whether lonely people can also be happy.
+
+Idea 3:
+Question: Is there a correlation between whether people participated in group exercises and the level of loneliness?
+Variable:
+Independent variable: CONNECTION_activities_group_exercise_pm (Yes or No)
+Dependent variable: LONELY_ucla_loneliness_scale_score (numerical data)
+I plan to use a t-test to analyze whether there is a connection between the independent and dependent variables. After the calculation, if the p-value is greater than 0.5, there is no connection between whether people participated in group exercises and the level of loneliness, and vice versa.
+Possible result: 
+Null hypothesis: there is no connection between whether people participated in group exercises and the level of loneliness.
+Alternative hypothesis: there is connection between whether people participated in group exercises and the level of loneliness.
+I hypothesize that the p-value will be less than 0.5, indicating there’s a connection between the two variables.
+Objective: My target for this analysis is to tell people doing group activities can decrease loneliness levels, and gaining better mental health.
